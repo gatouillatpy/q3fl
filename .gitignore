@@ -1,0 +1,7 @@
+*.swc
+*.exe
+*.dll
+*.lib
+*.o
+debug/
+release/
